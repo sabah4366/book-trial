@@ -1,0 +1,5 @@
+cloudinary==1.32.0
+Django==4.1.2
+djangorestframework==3.14.0
+django-filter==23.1
+pillow==9.3.0
